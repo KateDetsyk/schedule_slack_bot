@@ -1,0 +1,8 @@
+mysql-connector
+flask
+mysqlclient
+requests
+slackclient
+mysql-connector-python
+datetime
+gunicorn
